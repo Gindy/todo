@@ -11,7 +11,7 @@ namespace MyProject {
 	}
 
 }
-// namespace AnotherProject {
+//namespace AnotherProject {
 
 	class a {
 		public $a = 2;
