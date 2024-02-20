@@ -11,12 +11,12 @@ namespace MyProject {
 	}
 
 }
-// namespace AnotherProject {
+namespace AnotherProject {
 
-// 	class a {
-// 		public $a = 2;
-// 	}
-// 	$b = new a();
-// 	echo $b->a;
-// }
+	class a {
+		public $a = 2;
+	}
+	$b = new a();
+	echo $b->a;
+}
 ?>
